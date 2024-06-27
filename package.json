@@ -1,0 +1,10 @@
+{
+  "author": "nitiyoubi4",
+  "scripts": {
+    "new": "zenn new:article",
+    "preview": "zenn preview"
+  },
+  "dependencies": {
+    "zenn-cli": "^0.1.154"
+  }
+}

@@ -2,6 +2,7 @@
   "recommendations": [
     "editorconfig.editorconfig",
     "streetsidesoftware.code-spell-checker",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "eliostruyf.vscode-front-matter"
   ]
 }

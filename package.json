@@ -6,5 +6,9 @@
   },
   "dependencies": {
     "zenn-cli": "^0.1.154"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "prettier": "^3.3.3"
   }
 }

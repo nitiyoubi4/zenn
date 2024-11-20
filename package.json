@@ -5,7 +5,7 @@
     "preview": "zenn preview"
   },
   "dependencies": {
-    "zenn-cli": "^0.1.154"
+    "zenn-cli": "^0.1.158"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",

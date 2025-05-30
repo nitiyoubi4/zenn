@@ -1,6 +1,8 @@
 name: "Article review with AI"
 on:
   pull_request:
+    types:
+      - opened
     paths:
       - articles/*.md
       - books/**/*.md
